@@ -1,0 +1,16 @@
+/* My Implemented Solution */
+
+.element {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman' sans-serif,;
+}
+
+.first-element {
+    color: white;
+    background-color: black;
+}
+
+.second-element {
+    color: black;
+    background-color: yellow;
+}
